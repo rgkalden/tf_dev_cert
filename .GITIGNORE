@@ -8,3 +8,6 @@ certificate
 *.py
 *.zip
 *.h5
+
+practice/NLP/sentiment140/glove.6B.100d.txt
+practice/NLP/sentiment140/training_cleaned.csv
