@@ -1,0 +1,10 @@
+
+CONFIDENTIAL
+guides
+venv
+certificate
+
+*.pdf
+*.py
+*.zip
+*.h5
